@@ -17,7 +17,7 @@
 
 
 ## 💿 The Playlist I Chose Today 
-<a href="https://youtu.be/ZDppZ102D9k?si=NdBPD1CZ_m44urxK">
+<a href="![](https://www.youtube.com/watch?v=Zk7Dg30tCDU&list=RDZk7Dg30tCDU&start_radio=1)">
     <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
 </a>
   
