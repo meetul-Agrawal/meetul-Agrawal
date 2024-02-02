@@ -19,9 +19,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meetul-agrawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## Repository List
+<a href="https://github.com/devKobe24/iOSDevLinksCollectionByBMC">
+ <img src="https://img.shields.io/badge/iOS Dev Links Collection-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
 
 ## 💿 The Playlist I Chose Today 
- <a href="https://youtu.be/ZDppZ102D9k?si=NdBPD1CZ_m44urxK">
+ <a href="https://github.com/meetul-Agrawal/Projects">
 <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
 </a>
   
