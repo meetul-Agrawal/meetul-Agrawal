@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on my Data Science Skills and Projects<br>👯 I’m looking to collaborate on aspiring Data Science Projects<br>🤝 I’m looking for help with NLP<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about How to start your own Data Science Journey<br>⚡ Fun fact I am a Data Wizard
+🔭 I’m currently working on my Data Science Projects.<br>
+👯 I’m looking for a project to contribute in Python.<br>
+🤝 I’m looking for help with NLP.<br>
+🌱 I’m currently learning Deep Learning.<br>
+⚡ Fun fact I enjoy learning, organizing and then documenting.
 
 
 ## 🌐 Socials:
