@@ -32,6 +32,14 @@
  <img src="https://img.shields.io/badge/Deep Learning-181717?style=for-the-badge&logo=github&logoColor=white"><br>
 </a>
 
+<a href="https://github.com/meetul-Agrawal/NLP">
+ <img src="https://img.shields.io/badge/NLP-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+</a>
+
+<a href="https://github.com/meetul-Agrawal/python">
+ <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+</a>
+
 ## 💿 The Playlist I Chose Today 
  <a href="https://github.com/meetul-Agrawal/Projects">
 <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
