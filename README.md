@@ -20,7 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=meetul-agrawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Repository List
-<a href="https://github.com/devKobe24/iOSDevLinksCollectionByBMC">
+<a href="https://github.com/meetul-Agrawal/Projects">
  <img src="https://img.shields.io/badge/iOS Dev Links Collection-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
 
