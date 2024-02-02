@@ -15,6 +15,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meetul-agrawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+## 💿 The Playlist I Chose Today 
+<a href="https://youtu.be/ZDppZ102D9k?si=NdBPD1CZ_m44urxK">
+    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
+</a>
+  
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
