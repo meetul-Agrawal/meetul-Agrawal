@@ -21,8 +21,12 @@
 
 ## Repository List
 <a href="https://github.com/meetul-Agrawal/Projects">
- <img src="https://img.shields.io/badge/iOS Dev Links Collection-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-        </a>
+ <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+</a>
+
+<a href="https://github.com/meetul-Agrawal/Machine-Learning">
+ <img src="https://img.shields.io/badge/Machine Learning-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+</a>
 
 ## 💿 The Playlist I Chose Today 
  <a href="https://github.com/meetul-Agrawal/Projects">
