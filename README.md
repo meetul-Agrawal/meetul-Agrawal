@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on my Data Science Projects.<br>
-👯 I’m looking for a project to contribute in Python.<br>
-🤝 I’m looking for help with NLP.<br>
-🌱 I’m currently learning Deep Learning.<br>
+👯 Looking for a project to contribute in Python.<br>
+🤝 Looking for help with NLP.<br>
+🌱 Currently learning Deep Learning.<br>
 ⚡ Fun fact I enjoy learning, organizing and then documenting.
 
 
